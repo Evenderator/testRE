@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sorium_shovel",
+    "customModelName": "Normal",
+    "name": "Sorium Shovel",
+    "specialInfo": [
+      "M m E e O o W w"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:REM"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 20.0,
+    "attackSpeed": 0.5,
+    "enchantability": 7,
+    "damageVsEntity": 10.0,
+    "usageCount": 1800,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SoriumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

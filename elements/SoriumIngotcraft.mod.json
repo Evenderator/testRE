@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Sorium"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SoriumIngot"
+    },
+    "name": "sorium_ingotcraft",
+    "namespace": "mod"
+  }
+}

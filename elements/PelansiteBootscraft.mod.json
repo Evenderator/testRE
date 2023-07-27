@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pelsaniteingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pelsaniteingot"
+      },
+      {
+        "value": "CUSTOM:Pelsaniteingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PelansiteArmor.boots"
+    },
+    "name": "pelansite_bootscraft",
+    "namespace": "mod"
+  }
+}

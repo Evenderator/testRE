@@ -1,0 +1,31 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pelansite_axe",
+    "customModelName": "Normal",
+    "name": "Pelansiteaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:REM"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 7.0,
+    "attackSpeed": 0.8,
+    "enchantability": 15,
+    "damageVsEntity": 13.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Pelsaniteingot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

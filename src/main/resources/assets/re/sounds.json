@@ -1,0 +1,214 @@
+{
+  "testhitsound": {
+    "sounds": [
+      {
+        "name": "re:test.hitsound",
+        "stream": false
+      }
+    ]
+  },
+  "testdeathsound": {
+    "sounds": [
+      {
+        "name": "re:test.deathsound",
+        "stream": false
+      }
+    ]
+  },
+  "testambient": {
+    "sounds": [
+      {
+        "name": "re:predator-eats-meat",
+        "stream": false
+      }
+    ]
+  },
+  "werd": {
+    "sounds": [
+      {
+        "name": "re:meme-yeet_sound_effect",
+        "stream": false
+      }
+    ]
+  },
+  "altercreahurt": {
+    "sounds": [
+      {
+        "name": "re:altercreahurt",
+        "stream": false
+      }
+    ]
+  },
+  "altercreadeath": {
+    "sounds": [
+      {
+        "name": "re:altercreadeath",
+        "stream": false
+      }
+    ]
+  },
+  "altercrealifesound": {
+    "sounds": [
+      {
+        "name": "re:altercreasoundlife",
+        "stream": false
+      }
+    ]
+  },
+  "pelansitearmor": {
+    "sounds": [
+      {
+        "name": "re:bread",
+        "stream": false
+      }
+    ]
+  },
+  "znewbread": {
+    "sounds": [
+      {
+        "name": "re:znewbread",
+        "stream": false
+      }
+    ]
+  },
+  "znewbread1": {
+    "sounds": [
+      {
+        "name": "re:znewbread_1",
+        "stream": false
+      }
+    ]
+  },
+  "grondiklifesound": {
+    "sounds": [
+      {
+        "name": "re:grondick1",
+        "stream": false
+      }
+    ]
+  },
+  "grondikdeath": {
+    "sounds": [
+      {
+        "name": "re:grondick2_1",
+        "stream": false
+      }
+    ]
+  },
+  "grondikhurt": {
+    "sounds": [
+      {
+        "name": "re:grondick3",
+        "stream": false
+      }
+    ]
+  },
+  "grondikwalking": {
+    "sounds": [
+      {
+        "name": "re:grondick4_1",
+        "stream": false
+      }
+    ]
+  },
+  "diesandthing": {
+    "sounds": [
+      {
+        "name": "re:die1",
+        "stream": false
+      },
+      {
+        "name": "re:die2_1",
+        "stream": false
+      }
+    ]
+  },
+  "sandthinghurtsound": {
+    "sounds": [
+      {
+        "name": "re:hurt3",
+        "stream": false
+      },
+      {
+        "name": "re:hurt2",
+        "stream": false
+      },
+      {
+        "name": "re:hurt1",
+        "stream": false
+      },
+      {
+        "name": "re:hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "sandthinglivesound": {
+    "sounds": [
+      {
+        "name": "re:idle2",
+        "stream": false
+      },
+      {
+        "name": "re:idle1",
+        "stream": false
+      }
+    ]
+  },
+  "soundthingwalkingsound": {
+    "sounds": [
+      {
+        "name": "re:walk1",
+        "stream": false
+      }
+    ]
+  },
+  "sinkydie": {
+    "sounds": [
+      {
+        "name": "re:die1_1",
+        "stream": false
+      },
+      {
+        "name": "re:idle2_1",
+        "stream": false
+      }
+    ]
+  },
+  "sinkyidlereal": {
+    "sounds": [
+      {
+        "name": "re:die2_2",
+        "stream": false
+      },
+      {
+        "name": "re:die1_1",
+        "stream": false
+      }
+    ]
+  },
+  "sinkyhurt": {
+    "sounds": [
+      {
+        "name": "re:hurt3",
+        "stream": false
+      },
+      {
+        "name": "re:hurt2",
+        "stream": false
+      },
+      {
+        "name": "re:hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "sinkywalk": {
+    "sounds": [
+      {
+        "name": "re:walk1",
+        "stream": false
+      }
+    ]
+  }
+}

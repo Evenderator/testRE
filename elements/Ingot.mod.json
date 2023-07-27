@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 15.0,
+    "cookingTime": 230,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Pelansite"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Pelsaniteingot"
+    },
+    "name": "ingot",
+    "namespace": "mod"
+  }
+}

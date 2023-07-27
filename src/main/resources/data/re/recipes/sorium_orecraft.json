@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "re:pelansite"
+    },
+    "1": {
+      "item": "re:whirdomcrystall"
+    },
+    "3": {
+      "item": "re:pelansite"
+    }
+  },
+  "result": {
+    "item": "re:sorium",
+    "count": 1
+  }
+}

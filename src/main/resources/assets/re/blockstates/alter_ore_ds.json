@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "re:block/alter_ore_ds"
+    }
+  }
+}

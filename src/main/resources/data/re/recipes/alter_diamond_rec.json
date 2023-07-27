@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "re:alter_shard"
+    },
+    "1": {
+      "item": "re:alter_shard"
+    },
+    "2": {
+      "item": "re:alter_shard"
+    },
+    "3": {
+      "item": "re:alter_shard"
+    },
+    "4": {
+      "item": "re:alter_shard"
+    },
+    "5": {
+      "item": "re:alter_shard"
+    },
+    "6": {
+      "item": "re:alter_shard"
+    },
+    "7": {
+      "item": "re:alter_shard"
+    },
+    "8": {
+      "item": "re:alter_shard"
+    }
+  },
+  "result": {
+    "item": "re:alter_diamond",
+    "count": 1
+  }
+}

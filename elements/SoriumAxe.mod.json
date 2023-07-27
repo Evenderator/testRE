@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sorium_axe",
+    "customModelName": "Normal",
+    "name": "Sorium Axe",
+    "specialInfo": [
+      "MEOW"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:REM"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 0.6,
+    "enchantability": 10,
+    "damageVsEntity": 19.0,
+    "usageCount": 5200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SoriumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

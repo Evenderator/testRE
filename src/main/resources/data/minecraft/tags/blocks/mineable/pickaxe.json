@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "re:alter_ore",
+    "re:alter_ore_ds",
+    "re:pelansiteore",
+    "re:sus_alter_ore"
+  ]
+}

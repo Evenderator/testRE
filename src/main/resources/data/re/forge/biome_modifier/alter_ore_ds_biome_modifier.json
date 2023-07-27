@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "re:alter_ore_ds",
+  "step": "underground_ores"
+}

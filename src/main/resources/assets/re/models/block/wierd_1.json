@@ -1,0 +1,9 @@
+{
+  "parent": "re:custom/sewxy",
+  "textures": {
+    "all": "re:block/png-transparent-lebron-james-lebron-james-funny-face-cleveland-cavaliers-youtube-lebron-james-game-face-head",
+    "particle": "re:block/png-transparent-lebron-james-lebron-james-funny-face-cleveland-cavaliers-youtube-lebron-james-game-face-head",
+    "0": "re:block/png-transparent-lebron-james-lebron-james-funny-face-cleveland-cavaliers-youtube-lebron-james-game-face-head"
+  },
+  "render_type": "solid"
+}

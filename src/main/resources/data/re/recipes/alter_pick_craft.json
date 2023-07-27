@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "re:alter_diamond"
+    },
+    "1": {
+      "item": "re:alter_diamond"
+    },
+    "2": {
+      "item": "re:alter_diamond"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "re:alter_pickaxe",
+    "count": 1
+  }
+}

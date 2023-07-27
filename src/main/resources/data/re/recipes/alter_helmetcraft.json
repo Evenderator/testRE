@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "re:alter_diamond"
+    },
+    "1": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "2": {
+      "item": "re:alter_diamond"
+    },
+    "3": {
+      "item": "re:alter_diamond"
+    },
+    "5": {
+      "item": "re:alter_diamond"
+    }
+  },
+  "result": {
+    "item": "re:alter_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "eblade_glowing_part",
+        "1": "eblade"
+      },
+      "name": "default"
+    }
+  }
+}

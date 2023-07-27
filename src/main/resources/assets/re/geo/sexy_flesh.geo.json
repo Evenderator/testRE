@@ -1,0 +1,63 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.sexy_flesh",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Rleg",
+					"pivot": [0.05, 20, 0],
+					"cubes": [
+						{"origin": [-5.9, 0, -2.95], "size": [5.9, 20.65, 5.9], "uv": [20, 47]}
+					]
+				},
+				{
+					"name": "LLeg",
+					"pivot": [-0.05, 20, 0],
+					"cubes": [
+						{"origin": [0, 0, -2.95], "size": [5.9, 20.65, 5.9], "uv": [47, 0]}
+					]
+				},
+				{
+					"name": "RArm",
+					"pivot": [-5.9, 40.65, 0],
+					"cubes": [
+						{"origin": [-11.8, 20.65, -2.95], "size": [5.9, 20.65, 5.9], "uv": [0, 47]}
+					]
+				},
+				{
+					"name": "LArm",
+					"pivot": [6, 41, 0],
+					"cubes": [
+						{"origin": [5.9, 20.65, -2.95], "size": [5.9, 20.65, 5.9], "uv": [32, 22]}
+					]
+				},
+				{
+					"name": "Head",
+					"pivot": [0, 41, 0],
+					"cubes": [
+						{"origin": [-5.9, 41.3, -5.9], "size": [11.8, 11.8, 11.8], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "LLeg2",
+					"pivot": [-0.05, 20, 0]
+				},
+				{
+					"name": "Body",
+					"pivot": [0, 30, 0],
+					"cubes": [
+						{"origin": [-5.9, 20.65, -2.95], "size": [11.8, 20.65, 5.9], "uv": [0, 22]}
+					]
+				}
+			]
+		}
+	]
+}

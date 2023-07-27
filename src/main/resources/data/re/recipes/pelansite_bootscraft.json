@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "re:pelsaniteingot"
+    },
+    "2": {
+      "item": "re:pelsaniteingot"
+    },
+    "3": {
+      "item": "re:pelsaniteingot"
+    },
+    "5": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "re:pelansite_armor_boots",
+    "count": 1
+  }
+}

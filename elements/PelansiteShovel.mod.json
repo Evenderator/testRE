@@ -1,0 +1,30 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pelansite_shovel",
+    "customModelName": "Normal",
+    "name": "Pelansite Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:REM"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 5.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "PelansiteShovelPriUdariePoSushchnostiInstrumientom"
+    }
+  }
+}

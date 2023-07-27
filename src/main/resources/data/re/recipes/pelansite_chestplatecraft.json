@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "re:sorium_ingot"
+    },
+    "2": {
+      "item": "re:sorium_ingot"
+    },
+    "3": {
+      "item": "re:sorium_ingot"
+    },
+    "4": {
+      "item": "re:grunder_drop"
+    },
+    "5": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "6": {
+      "item": "re:sorium_ingot"
+    },
+    "7": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "8": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "re:pelansite_armor_chestplate",
+    "count": 1
+  }
+}

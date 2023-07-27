@@ -1,0 +1,1470 @@
+{
+  "mod_elements": [
+    {
+      "name": "AlterSword",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/alter_sword.json",
+          "src/main/java/net/mcreator/re/item/AlterSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AlterDiamond",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_diamond",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/AlterDiamondItem.java",
+          "src/main/resources/assets/re/models/item/alter_diamond.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterSwordCraft",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_sword_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_sword_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/AlterPickaxeItem.java",
+          "src/main/resources/assets/re/models/item/alter_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterPickCraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_pick_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_pick_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/block/AlterOreBlock.java",
+          "src/main/java/net/mcreator/re/world/features/ores/AlterOreFeature.java",
+          "src/main/resources/data/re/forge/biome_modifier/alter_ore_biome_modifier.json",
+          "src/main/resources/assets/re/models/block/alter_ore.json",
+          "src/main/resources/assets/re/models/item/alter_ore.json",
+          "src/main/resources/data/re/worldgen/placed_feature/alter_ore.json",
+          "src/main/resources/data/re/worldgen/configured_feature/alter_ore.json",
+          "src/main/resources/assets/re/blockstates/alter_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/AlterAxeItem.java",
+          "src/main/resources/assets/re/models/item/alter_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterShowel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_showel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/AlterShowelItem.java",
+          "src/main/resources/assets/re/models/item/alter_showel.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterShowelRec",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_showel_rec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_showel_rec.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterAxeRec",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_axe_rec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_axe_rec.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterShard",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_shard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/alter_shard.json",
+          "src/main/java/net/mcreator/re/item/AlterShardItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AlterShardDropRate",
+      "type": "loottable",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_shard_drop_rate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/loot_tables/entities/alterore.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterDiamondRec",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_diamond_rec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_diamond_rec.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterOreDs",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_ore_ds",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/forge/biome_modifier/alter_ore_ds_biome_modifier.json",
+          "src/main/resources/assets/re/models/item/alter_ore_ds.json",
+          "src/main/java/net/mcreator/re/block/AlterOreDsBlock.java",
+          "src/main/resources/assets/re/models/block/alter_ore_ds.json",
+          "src/main/resources/data/re/worldgen/placed_feature/alter_ore_ds.json",
+          "src/main/resources/assets/re/blockstates/alter_ore_ds.json",
+          "src/main/java/net/mcreator/re/world/features/ores/AlterOreDsFeature.java",
+          "src/main/resources/data/re/worldgen/configured_feature/alter_ore_ds.json"
+        ]
+      }
+    },
+    {
+      "name": "TestMobSw",
+      "type": "livingentity",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_mob_sw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/forge/biome_modifier/test_mob_sw_biome_modifier.json",
+          "src/main/java/net/mcreator/re/client/renderer/TestMobSwRenderer.java",
+          "src/main/java/net/mcreator/re/entity/TestMobSwEntity.java",
+          "src/main/resources/assets/re/models/item/test_mob_sw_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterTrident",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_trident",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/alter_trident.json",
+          "src/main/java/net/mcreator/re/item/AlterTridentItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CorruptedForest",
+      "type": "biome",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_forest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/worldgen/configured_feature/corrupted_forest_tree.json",
+          "src/main/resources/data/re/worldgen/placed_feature/corrupted_forest_tree.json",
+          "src/main/resources/data/re/worldgen/biome/corrupted_forest.json",
+          "src/main/java/net/mcreator/re/world/features/treedecorators/CorruptedForestFruitDecorator.java"
+        ]
+      }
+    },
+    {
+      "name": "W1test",
+      "type": "dimension",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "w_1test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/w_1test.json",
+          "src/main/java/net/mcreator/re/world/dimension/W1testDimension.java",
+          "src/main/resources/data/re/dimension/w_1test.json",
+          "src/main/resources/assets/re/models/block/w_1test_portal_ew.json",
+          "src/main/resources/data/re/dimension_type/w_1test.json",
+          "src/main/java/net/mcreator/re/world/teleporter/W1testPortalShape.java",
+          "src/main/resources/assets/re/models/block/w_1test_portal_ns.json",
+          "src/main/java/net/mcreator/re/item/W1testItem.java",
+          "src/main/java/net/mcreator/re/block/W1testPortalBlock.java",
+          "src/main/resources/assets/re/blockstates/w_1test_portal.json",
+          "src/main/java/net/mcreator/re/world/teleporter/W1testTeleporter.java"
+        ]
+      }
+    },
+    {
+      "name": "REM",
+      "type": "tab",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rem",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Bebra",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bebra",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/advancements/bebra.json"
+        ]
+      }
+    },
+    {
+      "name": "BetaLaserBladePriShchielchkiePKM",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beta_laser_blade_pri_shchielchkie_pkm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/BetaLaserBladePriShchielchkiePKMProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BetaLaserBlade",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beta_laser_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/BetaLaserBladeItem.java",
+          "src/main/resources/assets/re/models/item/beta_laser_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "TestPriRanieniiSushchnosti",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_pri_ranienii_sushchnosti",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/TestPriRanieniiSushchnostiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MechPriShchielchkiePKMPoBloku",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mech_pri_shchielchkie_pkm_po_bloku",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/MechPriShchielchkiePKMPoBlokuProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mech",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mech",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/mech.json",
+          "src/main/java/net/mcreator/re/item/MechItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Wierd1PriShchielchkiePKMPoBloku",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wierd_1_pri_shchielchkie_pkm_po_bloku",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/Wierd1PriShchielchkiePKMPoBlokuProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wierd1",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wierd_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/block/Wierd1Block.java",
+          "src/main/resources/assets/re/models/item/wierd_1.json",
+          "src/main/resources/assets/re/blockstates/wierd_1.json",
+          "src/main/resources/assets/re/models/block/wierd_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Pelansite",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/pelansite.json",
+          "src/main/java/net/mcreator/re/item/PelansiteItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pelansiteore",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansiteore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/world/features/ores/PelansiteoreFeature.java",
+          "src/main/resources/assets/re/models/block/pelansiteore.json",
+          "src/main/resources/data/re/worldgen/placed_feature/pelansiteore.json",
+          "src/main/java/net/mcreator/re/block/PelansiteoreBlock.java",
+          "src/main/resources/assets/re/models/item/pelansiteore.json",
+          "src/main/resources/data/re/forge/biome_modifier/pelansiteore_biome_modifier.json",
+          "src/main/resources/assets/re/blockstates/pelansiteore.json",
+          "src/main/resources/data/re/worldgen/configured_feature/pelansiteore.json"
+        ]
+      }
+    },
+    {
+      "name": "Altercreature",
+      "type": "livingentity",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altercreature",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/altercreature_spawn_egg.json",
+          "src/main/java/net/mcreator/re/entity/AltercreatureEntity.java",
+          "src/main/java/net/mcreator/re/client/renderer/AltercreatureRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "SusAlterOre",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_alter_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/block/SusAlterOreBlock.java",
+          "src/main/resources/data/re/worldgen/placed_feature/sus_alter_ore.json",
+          "src/main/resources/data/re/worldgen/configured_feature/sus_alter_ore.json",
+          "src/main/resources/data/re/forge/biome_modifier/sus_alter_ore_biome_modifier.json",
+          "src/main/resources/assets/re/blockstates/sus_alter_ore.json",
+          "src/main/java/net/mcreator/re/world/features/ores/SusAlterOreFeature.java",
+          "src/main/resources/assets/re/models/item/sus_alter_ore.json",
+          "src/main/resources/assets/re/models/block/sus_alter_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterOreDsPriRazrushieniiBlokaIghrokom",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_ore_ds_pri_razrushienii_bloka_ighrokom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/AlterOreDsPriRazrushieniiBlokaIghrokomProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PelansiteSword",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/pelansite_sword.json",
+          "src/main/java/net/mcreator/re/item/PelansiteSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pelsaniteingot",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelsaniteingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/PelsaniteingotItem.java",
+          "src/main/resources/assets/re/models/item/pelsaniteingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Pelsanitesword",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelsanitesword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelsaniteswordcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Ingot",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Pelansiteaxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansiteaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/pelansiteaxe.json",
+          "src/main/java/net/mcreator/re/item/PelansiteaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pelansiteaxecraft",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansiteaxecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelansiteaxecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Whirdomcrystall",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whirdomcrystall",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/WhirdomcrystallItem.java",
+          "src/main/resources/assets/re/models/item/whirdomcrystall.json"
+        ]
+      }
+    },
+    {
+      "name": "FunnySex",
+      "type": "enchantment",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funny_sex",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/enchantment/FunnySexEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "PelansitePickaxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/PelansitePickaxeItem.java",
+          "src/main/resources/assets/re/models/item/pelansite_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "PelsanitePickaxecraft",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelsanite_pickaxecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelsanite_pickaxecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteShovelPriUdariePoSushchnostiInstrumientom",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_shovel_pri_udarie_po_sushchnosti_instrumientom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/PelansiteShovelPriUdariePoSushchnostiInstrumientomProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PelansiteShovel",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/PelansiteShovelItem.java",
+          "src/main/resources/assets/re/models/item/pelansite_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteShowelcraft",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_showelcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelansite_showelcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Test1",
+      "type": "armor",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/test_1_helmet.json",
+          "src/main/resources/assets/re/models/item/test_1_boots.json",
+          "src/main/java/net/mcreator/re/item/Test1Item.java",
+          "src/main/resources/assets/re/models/item/test_1_leggings.json",
+          "src/main/resources/assets/re/models/item/test_1_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterArmor",
+      "type": "armor",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/alter_armor_helmet.json",
+          "src/main/resources/assets/re/models/item/alter_armor_chestplate.json",
+          "src/main/java/net/mcreator/re/item/AlterArmorItem.java",
+          "src/main/resources/assets/re/models/item/alter_armor_boots.json",
+          "src/main/resources/assets/re/models/item/alter_armor_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteArmor",
+      "type": "armor",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/pelansite_armor_helmet.json",
+          "src/main/java/net/mcreator/re/item/PelansiteArmorItem.java",
+          "src/main/resources/assets/re/models/item/pelansite_armor_leggings.json",
+          "src/main/resources/assets/re/models/item/pelansite_armor_boots.json",
+          "src/main/resources/assets/re/models/item/pelansite_armor_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteHelmetcraft",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_helmetcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelansite_helmetcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteChestplatecraft",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_chestplatecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelansite_chestplatecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteLegginscraft",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_legginscraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelansite_legginscraft.json"
+        ]
+      }
+    },
+    {
+      "name": "PelansiteBootscraft",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelansite_bootscraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/pelansite_bootscraft.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterHelmetcraft",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_helmetcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_helmetcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterChestplatecraft",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_chestplatecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_chestplatecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterLeggins",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_leggins",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_leggins.json"
+        ]
+      }
+    },
+    {
+      "name": "AlterBootscraft",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alter_bootscraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/alter_bootscraft.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystClustercraft",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_clustercraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/amethyst_clustercraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Sorium",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/SoriumItem.java",
+          "src/main/resources/assets/re/models/item/sorium.json"
+        ]
+      }
+    },
+    {
+      "name": "SoriumIngot",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/sorium_ingot.json",
+          "src/main/java/net/mcreator/re/item/SoriumIngotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SoriumSword",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/SoriumSwordItem.java",
+          "src/main/resources/assets/re/models/item/sorium_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "SoriumAxe",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/sorium_axe.json",
+          "src/main/java/net/mcreator/re/item/SoriumAxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SoriumPickaxe",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/sorium_pickaxe.json",
+          "src/main/java/net/mcreator/re/item/SoriumPickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SoriumShowel",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_showel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/sorium_showel.json",
+          "src/main/java/net/mcreator/re/item/SoriumShowelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GrunderDrop",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grunder_drop",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/item/GrunderDropItem.java",
+          "src/main/resources/assets/re/models/item/grunder_drop.json"
+        ]
+      }
+    },
+    {
+      "name": "Grondik",
+      "type": "livingentity",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grondik",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/re/models/item/grondik_spawn_egg.json",
+          "src/main/java/net/mcreator/re/entity/GrondikEntity.java",
+          "src/main/java/net/mcreator/re/client/renderer/GrondikRenderer.java",
+          "src/main/resources/data/re/forge/biome_modifier/grondik_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "SoriumOrecraft",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_orecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/sorium_orecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "SoriumIngotcraft",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorium_ingotcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/re/recipes/sorium_ingotcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "SinkyPriShchielchkiePKMPoSushchnosti",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sinky_pri_shchielchkie_pkm_po_sushchnosti",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/SinkyPriShchielchkiePKMPoSushchnostiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sinky",
+      "type": "animatedentity",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sinky",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/entity/model/SinkyModel.java",
+          "src/main/resources/assets/re/models/item/sinky_spawn_egg.json",
+          "src/main/java/net/mcreator/re/entity/SinkyEntity.java",
+          "src/main/resources/data/re/forge/biome_modifier/sinky_biome_modifier.json",
+          "src/main/java/net/mcreator/re/client/renderer/SinkyRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "animatedentity",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/client/renderer/TestRenderer.java",
+          "src/main/java/net/mcreator/re/entity/TestEntity.java",
+          "src/main/java/net/mcreator/re/entity/model/TestModel.java",
+          "src/main/resources/data/re/forge/biome_modifier/test_biome_modifier.json",
+          "src/main/resources/assets/re/models/item/test_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "SinkyPriRanieniiSushchnosti",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sinky_pri_ranienii_sushchnosti",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/re/procedures/SinkyPriRanieniiSushchnostiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "testhitsound",
+      "files": [
+        "test.hitsound"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "testdeathsound",
+      "files": [
+        "test.deathsound"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "testambient",
+      "files": [
+        "predator-eats-meat"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "werd",
+      "files": [
+        "meme-yeet_sound_effect"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "altercreahurt",
+      "files": [
+        "altercreahurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "altercreadeath",
+      "files": [
+        "altercreadeath"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "altercrealifesound",
+      "files": [
+        "altercreasoundlife"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "pelansitearmor",
+      "files": [
+        "bread"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "znewbread",
+      "files": [
+        "znewbread"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "znewbread1",
+      "files": [
+        "znewbread_1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "grondiklifesound",
+      "files": [
+        "grondick1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "grondikdeath",
+      "files": [
+        "grondick2_1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "grondikhurt",
+      "files": [
+        "grondick3"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "grondikwalking",
+      "files": [
+        "grondick4_1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "diesandthing",
+      "files": [
+        "die1",
+        "die2_1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sandthinghurtsound",
+      "files": [
+        "hurt3",
+        "hurt2",
+        "hurt1",
+        "hurt4"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sandthinglivesound",
+      "files": [
+        "idle2",
+        "idle1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "soundthingwalkingsound",
+      "files": [
+        "walk1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sinkydie",
+      "files": [
+        "die1_1",
+        "idle2_1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sinkyidlereal",
+      "files": [
+        "die2_2",
+        "die1_1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sinkyhurt",
+      "files": [
+        "hurt3",
+        "hurt2",
+        "hurt1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sinkywalk",
+      "files": [
+        "walk1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "subtitles.altercrealifesound": "",
+      "item.re.alter_axe": "Альтер топор",
+      "item.re.alter_sword": "Альтер меч",
+      "subtitles.znewbread": "",
+      "item.re.alter_diamond": "Иной кристал",
+      "subtitles.diesandthing": "",
+      "subtitles.sandthinghurtsound": "",
+      "subtitles.soundthingwalkingsound": "",
+      "item.re.test_1_leggings": "Поножи Test 1",
+      "subtitles.sinkydie": "",
+      "block.re.alter_ore": "Альт руда",
+      "item.re.grondik_spawn_egg": "Grondik Spawn Egg",
+      "subtitles.altercreahurt": "",
+      "subtitles.sinkyhurt": "",
+      "item.re.alter_armor_helmet": "Изменчивый Шлем",
+      "item.re.pelansite_pickaxe": "Пеланситовая Кирка",
+      "subtitles.grondikdeath": "",
+      "subtitles.grondiklifesound": "",
+      "subtitles.sinkywalk": "",
+      "item.re.test_1_helmet": "Test",
+      "item.re.test_mob_sw_spawn_egg": "Test Mob Sw Spawn Egg",
+      "subtitles.werd": "",
+      "entity.re.sinky": "Sinky",
+      "subtitles.sinkyidlereal": "",
+      "subtitles.znewbread1": "",
+      "item.re.pelansite_armor_boots": "Пеланситовые Ботинки",
+      "block.re.sus_alter_ore": "Deepslate Alter Ore",
+      "entity.re.test": "Test",
+      "item.re.alter_pickaxe": "Альтер кирка",
+      "item.re.sinky_spawn_egg": "Sinky Spawn Egg",
+      "advancements.bebra.title": "As if he smelled bebra",
+      "biome.re.corrupted_forest": "Corrupted Forest",
+      "item_group.re.rem": "REM",
+      "entity.re.test_mob_sw": "Test Mob Sw",
+      "item.re.pelansite": "Пелансит",
+      "item.re.sorium_ingot": "Sorium Ingot",
+      "advancements.bebra.descr": "sniffy pink~",
+      "entity.re.grondik": "Grondik",
+      "enchantment.re.funny_sex": "Funny Sex",
+      "subtitles.sandthinglivesound": "",
+      "block.re.wierd_1": "Wierd 1",
+      "item.re.beta_laser_blade": "Beta Laser Blade",
+      "item.re.alter_showel": "Альтер лопата",
+      "subtitles.testdeathsound": "",
+      "item.re.test_1_chestplate": "Нагрудник Test 1",
+      "subtitles.grondikhurt": "",
+      "item.re.pelansite_armor_helmet": "Пеланситовый Шлем",
+      "item.re.sorium_showel": "Sorium Shovel",
+      "item.re.pelansite_shovel": "Пеланситовая Лопата",
+      "item.re.pelansite_armor_chestplate": "Пеланситовый Нагрудник",
+      "item.re.alter_trident": "Изменчивый Трезубец",
+      "item.re.pelansiteaxe": "Пеланситовый Топор",
+      "item.re.grunder_drop": "Grunder Drop",
+      "item.re.mech": "Mech",
+      "item.re.sorium": "Sorium",
+      "subtitles.grondikwalking": "",
+      "subtitles.altercreadeath": "",
+      "item.re.test_spawn_egg": "Test Spawn Egg",
+      "subtitles.hurtsound": "",
+      "item.re.whirdomcrystall": "Whirdomcrystall",
+      "item.re.pelsaniteingot": "Слиток Пелансита",
+      "item.re.alter_armor_leggings": "Изменчивые Поножи",
+      "item.re.sorium_axe": "Sorium Axe",
+      "subtitles.testambient": "",
+      "item.re.alter_armor_boots": "Изменчивые Ботинки",
+      "item.re.w_1test": "W 1test Portal Igniter",
+      "item.re.pelansite_armor_leggings": "Пеланситовые Поножи",
+      "item.re.alter_armor_chestplate": "Изменчивый нагрудник",
+      "subtitles.pelansitearmor": "",
+      "item.re.sorium_sword": "Sorium Sword",
+      "block.re.pelansiteore": "Рудный Пелансит",
+      "block.re.alter_ore_ds": "Deepslate Alter Ore",
+      "item.re.sorium_pickaxe": "Sorium Pickaxe",
+      "subtitles.testhitsound": "",
+      "entity.re.altercreature": "Альквиш",
+      "item.re.pelansite_sword": "Пеланситовый меч",
+      "item.re.alter_shard": "Иной осколок",
+      "item.re.test_1_boots": "Ботинки Test 1",
+      "item.re.altercreature_spawn_egg": "Яйцо призыва Альквиш"
+    },
+    "en_us": {
+      "item.re.alter_axe": "Alter Axe",
+      "subtitles.altercrealifesound": "",
+      "item.re.alter_sword": "Alter Sword",
+      "subtitles.znewbread": "",
+      "item.re.alter_diamond": "Alter Diamond",
+      "subtitles.diesandthing": "",
+      "subtitles.sandthinghurtsound": "",
+      "subtitles.soundthingwalkingsound": "",
+      "item.re.test_1_leggings": "Поножи Test 1",
+      "subtitles.sinkydie": "",
+      "block.re.alter_ore": "Alter Ore",
+      "item.re.grondik_spawn_egg": "Grondik Spawn Egg",
+      "subtitles.altercreahurt": "",
+      "subtitles.sinkyhurt": "",
+      "item.re.alter_armor_helmet": "Шлем Alter Armor",
+      "item.re.pelansite_pickaxe": "Pelansite Pickaxe",
+      "subtitles.grondikdeath": "",
+      "subtitles.grondiklifesound": "",
+      "subtitles.sinkywalk": "",
+      "item.re.test_1_helmet": "Test",
+      "item.re.test_mob_sw_spawn_egg": "Test Mob Sw Spawn Egg",
+      "subtitles.werd": "",
+      "entity.re.sinky": "Sinky",
+      "subtitles.sinkyidlereal": "",
+      "subtitles.znewbread1": "",
+      "item.re.pelansite_armor_boots": "Ботинки Pelansite Armor",
+      "block.re.sus_alter_ore": "Sus Deepslate Alter Ore",
+      "entity.re.test": "Test",
+      "item.re.alter_pickaxe": "Alter Pickaxe",
+      "item.re.sinky_spawn_egg": "Sinky Spawn Egg",
+      "advancements.bebra.title": "As if he smelled bebra",
+      "biome.re.corrupted_forest": "Corrupted Forest",
+      "item_group.re.rem": "REM",
+      "entity.re.test_mob_sw": "Test Mob Sw",
+      "item.re.pelansite": "Pelansite",
+      "item.re.sorium_ingot": "Sorium Ingot",
+      "advancements.bebra.descr": "sniffy pink~",
+      "entity.re.grondik": "Grondik",
+      "enchantment.re.funny_sex": "Funny Sex",
+      "subtitles.sandthinglivesound": "",
+      "block.re.wierd_1": "Wierd 1",
+      "item.re.beta_laser_blade": "Beta Laser Blade",
+      "item.re.alter_showel": "Alter Showel",
+      "subtitles.testdeathsound": "",
+      "item.re.test_1_chestplate": "Нагрудник Test 1",
+      "subtitles.grondikhurt": "",
+      "item.re.pelansite_armor_helmet": "Шлем Pelansite Armor",
+      "item.re.sorium_showel": "Sorium Shovel",
+      "item.re.pelansite_shovel": "Pelansite Shovel",
+      "item.re.pelansite_armor_chestplate": "Нагрудник Pelansite Armor",
+      "item.re.alter_trident": "Alter Trident",
+      "item.re.pelansiteaxe": "Pelansiteaxe",
+      "item.re.grunder_drop": "Grunder Drop",
+      "item.re.mech": "Mech",
+      "item.re.sorium": "Sorium",
+      "subtitles.grondikwalking": "",
+      "subtitles.altercreadeath": "",
+      "item.re.test_spawn_egg": "Test Spawn Egg",
+      "subtitles.hurtsound": "",
+      "item.re.whirdomcrystall": "Wironium",
+      "item.re.pelsaniteingot": "Pelansite Ingot",
+      "item.re.alter_armor_leggings": "Поножи Alter Armor",
+      "item.re.sorium_axe": "Sorium Axe",
+      "subtitles.testambient": "",
+      "item.re.alter_armor_boots": "Ботинки Alter Armor",
+      "item.re.w_1test": "W 1test Portal Igniter",
+      "item.re.pelansite_armor_leggings": "Поножи Pelansite Armor",
+      "item.re.alter_armor_chestplate": "Нагрудник Alter Armor",
+      "subtitles.pelansitearmor": "",
+      "item.re.sorium_sword": "Sorium Sword",
+      "block.re.pelansiteore": "Pelansiteore",
+      "block.re.alter_ore_ds": "Deepslate Alter Ore",
+      "item.re.sorium_pickaxe": "Sorium Pickaxe",
+      "subtitles.testhitsound": "",
+      "entity.re.altercreature": "Altercreature",
+      "item.re.pelansite_sword": "Pelansite Sword",
+      "item.re.alter_shard": "Alter Shard",
+      "item.re.test_1_boots": "Ботинки Test 1",
+      "item.re.altercreature_spawn_egg": "Altercreature Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "re",
+    "modName": "re",
+    "version": "1.0.0",
+    "author": "enete, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib",
+      "playeranimator"
+    ],
+    "currentGenerator": "forge-1.19.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.re",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "re:block/deepslate_alter_updn",
+    "up": "re:block/deepslate_alter_updn",
+    "north": "re:block/deepslate_alter_side",
+    "east": "re:block/deepslate_alter_side",
+    "south": "re:block/deepslate_alter_side",
+    "west": "re:block/deepslate_alter_side",
+    "particle": "re:block/deepslate_alter_updn"
+  },
+  "render_type": "solid"
+}

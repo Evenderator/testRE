@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "altershowel",
+    "customModelName": "Normal",
+    "name": "Alter Showel",
+    "specialInfo": [
+      "Looks..."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:REM"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 0,
+    "efficiency": 11.0,
+    "attackSpeed": 3.0,
+    "enchantability": 2,
+    "damageVsEntity": 3.0,
+    "usageCount": 1700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AlterDiamond"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

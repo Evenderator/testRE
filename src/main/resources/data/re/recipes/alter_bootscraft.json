@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "re:alter_diamond"
+    },
+    "2": {
+      "item": "re:alter_diamond"
+    },
+    "3": {
+      "item": "minecraft:amethyst_block"
+    },
+    "5": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "re:alter_armor_boots",
+    "count": 1
+  }
+}

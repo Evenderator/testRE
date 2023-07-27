@@ -1,0 +1,46 @@
+{
+  "_fv": 43,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:CorruptedForest"
+      },
+      {
+        "value": "smaller_extreme_hills"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.QUARTZ_BLOCK#0"
+    },
+    "portalParticles": {
+      "value": "ASH"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "ambient.cave"
+    },
+    "enableIgniter": true,
+    "igniterName": "W 1test Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "testitem1",
+    "portalTexture": "portaltest1",
+    "enablePortal": true
+  }
+}

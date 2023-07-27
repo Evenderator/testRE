@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      },
+      {
+        "value": "CUSTOM:AlterShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AlterDiamond"
+    },
+    "name": "alter_diamond_rec",
+    "namespace": "mod"
+  }
+}

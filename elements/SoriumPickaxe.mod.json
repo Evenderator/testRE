@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sorium_pixaxe",
+    "customModelName": "Normal",
+    "name": "Sorium Pickaxe",
+    "specialInfo": [
+      "M-E-O-W"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:REM"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 16.0,
+    "attackSpeed": 0.9,
+    "enchantability": 10,
+    "damageVsEntity": 8.0,
+    "usageCount": 5500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SoriumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

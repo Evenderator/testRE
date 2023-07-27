@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "re:block/pelansit_ore_up",
+    "up": "re:block/pelansit_ore_up",
+    "north": "re:block/pelansit_ore_side",
+    "east": "re:block/pelansit_ore_side",
+    "south": "re:block/pelansit_ore_side",
+    "west": "re:block/pelansit_ore_side",
+    "particle": "re:block/pelansit_ore_up"
+  },
+  "render_type": "solid"
+}

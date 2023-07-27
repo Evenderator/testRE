@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "re:pelsaniteingot"
+    },
+    "1": {
+      "item": "re:pelsaniteingot"
+    },
+    "3": {
+      "item": "re:pelsaniteingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "re:pelsaniteingot"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "re:pelansiteaxe",
+    "count": 1
+  }
+}

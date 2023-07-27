@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "re:block/altercrystalcluster",
+    "up": "re:block/altercrystalcluster",
+    "north": "re:block/altercrystalcluster",
+    "east": "re:block/altercrystalcluster",
+    "south": "re:block/altercrystalcluster",
+    "west": "re:block/altercrystalcluster",
+    "particle": "re:block/altercrystalcluster"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "re:custom/alfalaserblade",
+  "textures": {
+    "0": "re:block/eblade_glowing_part",
+    "1": "re:block/eblade",
+    "particle": "re:item/betalasersword"
+  }
+}

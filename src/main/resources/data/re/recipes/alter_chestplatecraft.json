@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "re:alter_diamond"
+    },
+    "2": {
+      "item": "re:alter_diamond"
+    },
+    "3": {
+      "item": "re:alter_diamond"
+    },
+    "4": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "5": {
+      "item": "re:alter_diamond"
+    },
+    "6": {
+      "item": "re:alter_diamond"
+    },
+    "7": {
+      "item": "minecraft:amethyst_block"
+    },
+    "8": {
+      "item": "re:alter_diamond"
+    }
+  },
+  "result": {
+    "item": "re:alter_armor_chestplate",
+    "count": 1
+  }
+}
